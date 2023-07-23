@@ -11,7 +11,7 @@ Requires the installation of [dynamic-colors](https://github.com/sos4nt/dynamic-
 2. Once setup, develop a new color scheme as suggested [here](https://github.com/sos4nt/dynamic-colors#developing-color-schemes)
 3. Clone this repository into `~/.scheme-cycle`
 ```
-    $ git clone https://github.com/idealwebsolutions/scheme-cycle ~/.scheme-cycle
+    $ git clone https://github.com/alexl8819/scheme-cycle ~/.scheme-cycle
 ```
 4. Add the tool to your `PATH` by adding it to a persistent configuration file like `.profile`
 ```bash
